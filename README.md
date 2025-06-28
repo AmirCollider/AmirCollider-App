@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmirCollider/AmirCollider-App/main/ScreenShot1.png" alt="App Screenshot" width="90%" />
+  <img src="https://raw.githubusercontent.com/AmirCollider/AmirCollider-App/main/Logo.png" alt="App Screenshot" width="90%" />
 </p>
 
 <h1 align="center">AmirCollider App</h1>
